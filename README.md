@@ -4,7 +4,7 @@ this an express app for QA and quick test the SDK of shieldfy
 
 ## Installation
 
-1. clone the repo `git clone https://github.com/Amr-Reda/sgieldfy-demo-app.git`.
+1. clone the repo `git clone https://github.com/Amr-Reda/shieldfy-demo-app.git`.
 2. change directory `cd shieldfy-demo-app`.
 3. run command `bash autorun.sh` then enter the required input :-
     1. **appKey**: this is a shieldfy appKey for SDK you can register in [Shieldfy.io](https://shieldfy.io/) to get the appKey.
